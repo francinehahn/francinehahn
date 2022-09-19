@@ -1,16 +1,23 @@
-### Hi there 👋
+## Olá, muito prazer! 👋
 
-<!--
-**francinehahn/francinehahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou fisioterapeuta formada pela PUC-RS e mestre em Ciências da Reabilitação pela University of Manitoba (Canada).
+<br/>
+Atualmente, estou fazendo transição de carreira para a área de programação e estudando no curso Web Full Stack da Labenu.
 
-Here are some ideas to get you started:
+### Tecnologias utilizadas no momento:
+- JavaScript;
+- HTML;
+- CSS/Styled-components;
+- React.js;
+- Jest;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que irei aprender em breve:
+- Node.js;
+- Typescript;
+- MySQL;
+- AWS;
+- Firebase;
+
+### LinkedIn:
+[Vamos nos conectar?](https://www.linkedin.com/in/francine-hahn-4a0674149/)
+
