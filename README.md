@@ -1,17 +1,17 @@
-## Olá, muito prazer! 👋
+## Hi, nice to meet you! 👋
 
-Eu sou fisioterapeuta formada pela PUC-RS e mestre em Ciências da Reabilitação pela University of Manitoba (Canada).
+I am a physical therapist (PUC-RS) and a master of Science in Rehabilitation Sciences (University of Manitoba).
 <br/>
-Atualmente, estou fazendo transição de carreira para a área de programação e estudando no curso Web Full Stack da Labenu.
+I am currently making a career transition and studying computer programming at Labenu.
 
-### Tecnologias utilizadas no momento:
+### Technologies currently used:
 - JavaScript;
 - HTML;
 - CSS/Styled-components;
 - React.js;
 - Jest;
 
-### Tecnologias que irei aprender em breve:
+### Technologies I will learn:
 - Node.js;
 - Typescript;
 - MySQL;
@@ -19,5 +19,5 @@ Atualmente, estou fazendo transição de carreira para a área de programação 
 - Firebase;
 
 ### LinkedIn:
-[Vamos nos conectar?](https://www.linkedin.com/in/francine-hahn-4a0674149/)
+[Let's connect?](https://www.linkedin.com/in/francine-hahn-4a0674149/)
 
