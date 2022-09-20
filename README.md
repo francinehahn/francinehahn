@@ -25,5 +25,5 @@ I am currently making a career transition and studying computer programming at L
 </div>
 
 ### LinkedIn:
-[Let's connect?](https://www.linkedin.com/in/francine-hahn-4a0674149/)
+[Let's connect?](https://www.linkedin.com/in/francine-hahn-4a0674149)
 
