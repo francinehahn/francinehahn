@@ -36,7 +36,7 @@ I am currently making a career transition and studying computer programming at L
 </div>
 
 ### Let's connect?
-<a href="https://www.linkedin.com/in/francine-hahn-4a0674149">
+<a href="https://www.linkedin.com/in/francine-hahn/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="4%"/>
 </a>
 
