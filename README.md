@@ -14,7 +14,7 @@ I am currently making a career transition and studying computer programming at L
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="4%"/>
-  <img src="[https://github.com/devicons/devicon/tree/v2.15.1/icons/mongodb](https://icons8.com/icon/74402/mongodb)" width="4%"/>
+  <img src="[https://github.com/devicons/devicon/tree/v2.15.1/icons/mongodb]" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="4%"/>
 </div>
 
