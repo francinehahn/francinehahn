@@ -4,7 +4,7 @@ I am a physical therapist (PUC-RS) and a master of Science in Rehabilitation Sci
 <br/>
 I am currently making a career transition and studying computer programming at Labenu.
 
-### Technologies currently used:
+### Technologies that I currently use:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="4%"/>
@@ -14,12 +14,8 @@ I am currently making a career transition and studying computer programming at L
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="4%"/>
-</div>
-
-### Technologies I will learn:
-<div>
+  <img src="https://github.com/devicons/devicon/tree/v2.15.1/icons/mongodb" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="4%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="4%"/>
 </div>
 
 ### Tools:
