@@ -4,7 +4,7 @@ I am a physical therapist (PUC-RS) and a master of Science in Rehabilitation Sci
 <br/>
 I am currently making a career transition and studying computer programming at Labenu.
 
-### Technologies that I currently use:
+### Technologies I currently use:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="4%"/>
