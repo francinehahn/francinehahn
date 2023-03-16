@@ -1,7 +1,4 @@
 ## Hi, I am Francine Hahn!
-
-I am a physical therapist (PUC-RS) and a master of Science in Rehabilitation Sciences (University of Manitoba).
-<br/>
 I am currently making a career transition and studying computer programming at Labenu.
 
 ### Technologies I currently use:
