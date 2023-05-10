@@ -1,5 +1,5 @@
 ## Hi, I am Francine Hahn!
-I am currently making a career transition and studying computer programming at Labenu.
+I am a full-stack web developer and here you can see all my personal projects.
 
 ### Technologies I currently use:
 <div>
